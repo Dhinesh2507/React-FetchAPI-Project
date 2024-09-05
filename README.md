@@ -1,5 +1,5 @@
 
-![Sample Image](./images/sample-image.jpg)
+![Sample Image](./images/sample-image.png)
 
 # Getting Started with Create React App
 
